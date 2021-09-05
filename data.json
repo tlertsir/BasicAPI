@@ -2,19 +2,19 @@
     {
         "title": "laptop คืออะไร",
         "subtitle": "laptop คืออุปกรณ์คำนวณ json",
-        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/drip.jpg",
+        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/computer.jpg",
         "detail":"detail json คอมพิวเตอร์คืออะไร"
     },
     {
         "title": "มาเขียนโปรแกรมกัน",
         "subtitle": "ฝึกๆๆๆๆ json",
-        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/espresso.jpg",
+        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/coding.jpg",
         "detail":"detail json มาเขียนโปรแกรมกัน"
     },
     {
         "title": "python คือ",
         "subtitle": "อันที่ 44444444 json",
-        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/drip.jpg",
+        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/python.jpg",
         "detail":"detail json python คือ"
     }
 ]
