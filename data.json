@@ -2,19 +2,19 @@
     {
         "title": "คอมพิวเตอร์คืออะไร",
         "subtitle": "คอมคืออุปกรณ์คำนวณ json",
-        "img_url": "https://cdn.pixabay.com/photo/2020/06/02/19/37/coffee-5252372_960_720.jpg",
+        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/drip.jpg",
         "detail":"detail json คอมพิวเตอร์คืออะไร"
     },
     {
         "title": "มาเขียนโปรแกรมกัน",
         "subtitle": "ฝึกๆๆๆๆ json",
-        "img_url": "https://cdn.pixabay.com/photo/2015/06/11/07/31/espresso-805537_960_720.jpg",
+        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/espresso.jpg",
         "detail":"detail json มาเขียนโปรแกรมกัน"
     },
     {
         "title": "python คือ",
         "subtitle": "อันที่ 44444444 json",
-        "img_url": "https://cdn.pixabay.com/photo/2020/06/02/19/37/coffee-5252372_960_720.jpg",
+        "img_url": "https://raw.githubusercontent.com/tlertsir/BasicAPI/main/drip.jpg",
         "detail":"detail json python คือ"
     }
 ]
